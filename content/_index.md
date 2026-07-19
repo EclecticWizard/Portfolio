@@ -4,13 +4,10 @@ draft = true
 title = 'Home Page'
 +++
 
-## Welcome
-
-Welcome to my website!
 
 ### About me
 
-I'm Jack. I have a strong interest in Cybersecurity and automating IT systems.  
+I have a strong interest in Cybersecurity and automating IT systems. I'm well rounded due to managing Windows based devices at work and using a mixture of MacOS and Linux systems at home. 
   
 I current work for Managed Service Provider in Kent. My role largely consists of providing general IT support and advice for clients as well as checking and, where possible, mitigating vulnerabilities with user accounts and managed devices. I'm also training towards an Intune specialisation for device and software management of client devices and user accounts.  
   
@@ -18,12 +15,7 @@ In my previous employment, I created a "HR Portal" using Power Automate to strea
   
 I'm also studying towards a Computing and IT BSc with The Open University. My current module is the "Software Engineering". Previously, I completed the Open University's module for "Cisco Networking (CCNA) 3 and DevNet" and "TM357 Systems Penetration Testing" which ties in very closely to the CEH - Certified Ethical Hacker Certification from the EC-Council. I've also completed modules centered around Java programming, Data Structures and Algorithms, Cybersecurity and CCNA parts 1 and 2 (Networking essentials as well as Switching and Routing).  
   
-Outside of work I enjoy martial arts, running, reading and some light gaming. Occasionally I find the time to see some live music. Some of the bands I've seen recently include:
-
-- Mortiferum
-- Sunn O)))
-- Tangerine Dream
-- Wolves in the Throne Room
+Outside of work I enjoy martial arts, running, reading and some light gaming. I also bake something sourdough based most weekends. Occasionally I find the time to see some live music.
 
 ### Open University Modules
 
@@ -38,3 +30,9 @@ Outside of work I enjoy martial arts, running, reading and some light gaming. Oc
 - [TM359 Systems Penetration Testing](https://pd-eweb.open.ac.uk/ProductRenditionsUI/ProductRendition/ProductDescription/OUTIS1BD/TM359/Module/Y/V1.0/EN): Grade 2 Pass (82%)
 - [TM357 Cisco networking (CCNA) part 2](https://pd-eweb.open.ac.uk/ProductRenditionsUI/ProductRendition/ProductDescription/OUTIS1BD/TM357/Module/Y/V1.0/EN): Grade 2 Pass (Coursework 87%, Exam: 75%)
   
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <iframe frameborder="0" src="https://www.credly.com/embedded_badge/9b1fb29c-7fe1-49e0-a9ed-4b8744939563" title="..."></iframe>
+  <iframe frameborder="0" src="https://www.credly.com/embedded_badge/1ce3a812-b0b9-479a-b2f2-c9cb2bdc6c93" title="..."></iframe>
+  <iframe frameborder="0" src="https://www.credly.com/embedded_badge/52d6d9dc-621f-496d-be5e-572f28f0a519" title="..."></iframe>
+  <iframe frameborder="0" src="https://www.credly.com/embedded_badge/03128c36-4474-4592-a90a-49fbe3121f7f" title="..."></iframe>
+</div>
